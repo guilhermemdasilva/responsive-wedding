@@ -822,6 +822,14 @@ img.theinn  {
     margin-bottom: 50px;
 }
 
+img.savethedate  {
+
+    text-align: center;
+    margin-bottom: 50px;
+    height: 25%;
+    width: 25%;
+}
+
 div.bp h2 {
     margin: 0;
 }
