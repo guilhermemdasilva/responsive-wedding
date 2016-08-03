@@ -873,6 +873,8 @@ a.email {
 
 .thumbutton {
 
+    height: 160px;
+    width: 160px;
     margin-right: 10px;
     margin-left: 50px;
     float: left;
