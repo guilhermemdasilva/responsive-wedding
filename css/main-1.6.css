@@ -874,7 +874,8 @@ a.email {
 .thumbutton {
 
     margin-right: 10px;
-    margin-bottom: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
     float: left;
 
 }
